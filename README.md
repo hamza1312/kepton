@@ -1,4 +1,4 @@
-jki# Project ROADMAP Rusty Version
+# Project ROADMAP Rusty Version
 
 ## **🔥 Kepton lite v0.1 Beta**
 
